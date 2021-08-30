@@ -2,10 +2,10 @@
 
 ## Pré requisitos:
  
-  - Dockligth
+  - Docklight
   - ESP-IDF
 
-Instalação ESP-IDF (espressif)[https://docs.espressif.com/projects/esp-idf/en/latest/esp32/get-started/]
+Instalação ESP-IDF [espressif](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/get-started/)
 
 ## GPIO
 
@@ -39,11 +39,11 @@ Instalação ESP-IDF (espressif)[https://docs.espressif.com/projects/esp-idf/en/
 
 Executando projeto:
 
-'''
+
     Abra o terminal do idf e execute os comandos relativos a sua máquina:
 
     cd ~/TESTE-CAMILA---ENG
     idf.py build
     idf.py -p COM3 flash
 
-'''
+
